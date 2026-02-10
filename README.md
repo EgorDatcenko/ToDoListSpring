@@ -15,3 +15,5 @@ Hibernate
 PostgreSQL
 Maven
 Lombok
+
+Цель - знакомство с интеграционными тестами и с аннотациями @ControllerAdvice и @ExceptionHandler
