@@ -6,14 +6,14 @@ title (Название) - обязательно
 description (Описание) - опционально
 dueDate (Срок выполнения) - обязательно
 
-Технологии, которые я здесь использую
-Java 17
-Spring Boot 3
-Spring Web
-Spring Data JPA
-Hibernate
-PostgreSQL
-Maven
+Технологии, которые я здесь использую:
+Java 17,
+Spring Boot 3,
+Spring Web,
+Spring Data JPA,
+Hibernate,
+PostgreSQL,
+Maven,
 Lombok
 
 Цель - знакомство с интеграционными тестами и с аннотациями @ControllerAdvice и @ExceptionHandler
